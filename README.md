@@ -1,2 +1,2 @@
-# wordPage
-Build a worldpress project using docker
+# WordPress
+Build a wordpress project using docker
